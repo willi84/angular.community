@@ -2,6 +2,12 @@
     text-align: center;
     font-family: sans-serif;
 }
+h1{
+    font-size: 2vw;
+}
+h4{
+    font-size: 1.3vw;
+}
 .logo{
     width: 30%;
     height: 30%;
@@ -22,5 +28,5 @@
     margin-left: 25%;
 }
 .box--small p{
-    font-size: 10px;
+    font-size: 0.9vw;
 }
